@@ -1,0 +1,57 @@
+SCREENSHOT PLAN — 10 shots, 1920x1080
+=====================================
+Rules: borderless fullscreen, no FPS overlays, capture with Win+Shift+S or
+your tool of choice, save as PNG in THIS folder with the exact filenames
+below (index.html references them). Use a progressed save where noted —
+keep a copy of a late-game terminidle_save.json around as your "photo set".
+For variety, switch theme presets between shots ('theme' command).
+
+01-first-boot.png
+   Fresh run, classic terminal. 'help' output on screen, MINE pad visible,
+   goal bar chasing MINING BOT at ~60%. The "you start with nothing" shot.
+
+02-combo-flow.png
+   Mid mining-combo: spam 'mine' (or the pad) until the combo counter reads
+   x40+, flux motes streaming into the readout, a couple of +X pops visible.
+   The juice shot — this one sells the feel.
+
+03-skill-tree.png
+   'upgrades' window, mid-game save: 2-3 branches deep, some MAX nodes,
+   some revealed-but-unbought, a few encrypted "?" nodes at the frontier.
+   Shows the reveal-as-you-go progression.
+
+04-hack-contract.png
+   Mid hack minigame on a mid-tier target ('hack 4' or higher) — the typed
+   phase prompt visible with the timer running. Tension shot.
+
+05-os-desktop.png
+   THE money shot: TERMINIDLE OS desktop. Terminal windowed mid-screen,
+   taskbar with 3-4 running apps, 2 widgets (NETGRAPH + UPTIME) placed
+   nicely, custom wallpaper at ~40% opacity. Start menu CLOSED (cleaner).
+
+06-rig-redline.png
+   Process Manager open, all 4 RIG parts installed, OC3+, heat gauge 90%+,
+   throughput showing the multiplier. Bonus drama: one part BURNT (red row).
+
+07-darknet-hub.png
+   HACKERS HUB on the MARKET tab — 4 listings visible including at least one
+   negative-REP seller (red warning), REP strip on top. Alternatively the
+   chat tab mid-conversation if the lines are funny that session.
+
+08-network-map.png
+   NETWORK MAP mid-conquest (~40-60% domination): owned territory glowing,
+   infection pulses on edges, fog-of-war "?" nodes at the frontier.
+
+09-arcade.png
+   PONG.EXE mid-rally ON the OS desktop with SNAKE visible behind/beside it.
+   Shows "the idle game has a working arcade inside its own OS".
+
+10-quantum-wipe.png
+   The QUANTUM LAB with ASCEND armed, protocols board visible in the
+   terminal behind ('protocol' output showing GHOST + MANUAL armed).
+   Alternatively: the moment AFTER — the TOTAL SYSTEM WIPE banner.
+
+OPTIONAL EXTRAS (nice-to-have, same folder, any name)
+   - inbox with the prince's "URGENT: royal fortune transfer" mail open
+   - trophy room with 25+ unlocked
+   - a NEW PERSONAL BEST pop mid-screen

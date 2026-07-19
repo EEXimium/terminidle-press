@@ -1,0 +1,64 @@
+STEAM PAGE COPY — paste into Steamworks store page form
+=======================================================
+
+SHORT DESCRIPTION (Steam limit ~300 chars; this is 289)
+-------------------------------------------------------
+An incremental hacking game inside a living terminal. Start with nothing —
+the cursor is an upgrade, sound is hardware — and grow botnets, hack
+contracts and a crypto empire until the game boots its own desktop OS.
+Then wipe it all for quantum power and climb back faster.
+
+ABOUT THIS GAME (long description — Steam BBCode-ish, adjust headers)
+---------------------------------------------------------------------
+[h2]You start with a blinking cursor. That's it.[/h2]
+
+No mouse pointer — that's an upgrade. No sound — speakers are hardware you
+buy. No windows — comfort is earned. Type [b]mine[/b], watch one byte
+arrive, and build everything from that moment.
+
+[h2]The terminal is the game[/h2]
+[list]
+[*]40+ real commands, tab completion, in-game man pages — every window is optional
+[*]A 43-node skill tree where each purchase reveals the next node
+[*]Typed hack contracts: break in fast and clean for multiplied payouts
+[*]Botnets, server clusters, a crypto exchange with a live chart, firewall
+   breach defense
+[*]RIG BAY overclocking: buy components, push the dial, manage heat — redline
+   too long and a part literally burns out
+[/list]
+
+[h2]Then the game outgrows the terminal[/h2]
+
+Buy the DESKTOP ENVIRONMENT and your terminal shrinks into a window on a
+full graphical OS — taskbar, start menu, widgets, wallpapers. Everything you
+built becomes an app, and new ones appear:
+
+[list]
+[*]Arcade classics that pay real data: SNAKE, PONG, MINESWEEPER, defrag
+[*]An inbox with typed work orders, scams — and one very persistent prince
+[*]A darknet hub: peer chat (simulated, and honest about it), a black market
+   with deliberately shady sellers, real-time crew heists that resolve even
+   while the game is closed, an ascension leaderboard
+[*]NETWORK TAKEOVER: capture the internet node by node, up to the QUANTUM CORE
+[/list]
+
+[h2]Ascend. Lose everything. On purpose.[/h2]
+
+Prestige is a TOTAL SYSTEM WIPE — every upgrade, every item, the OS itself —
+traded for Quantum Bits and ten permanent upgrades. Arm PROTOCOLS (no
+clusters, no automation, no hacks, no consumables) and honor them to
+ascension for multiplied payouts. Only your trophies, records and darknet
+REP survive. The climb back is the game — and it's faster every time.
+
+[h2]Respectful of your time[/h2]
+[list]
+[*]Offline progress up to 24 hours
+[*]A goal tracker that always shows what you're about to afford
+[*]46+ trophies, each a permanent +1% — some secret
+[*]Every reward moment tuned to be satisfying, never spammy
+[/list]
+
+TAGS (suggested)
+----------------
+Idler, Clicker, Incremental, Hacking, Indie, Singleplayer, Simulation,
+Retro, Pixel Graphics (if applicable), Casual, 2D

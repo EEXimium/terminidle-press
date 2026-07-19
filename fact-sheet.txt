@@ -1,0 +1,34 @@
+TERMINIDLE — FACTSHEET
+======================
+
+Game:            TERMINIDLE
+Genre:           Incremental / idle hacking game
+Developer:       Yağız Efe Atasever (solo developer)
+Based in:        [TODO: city, country]
+Engine:          Unity 6 (URP)
+Platforms:       Windows PC  [TODO: confirm others — Steam planned]
+Release date:    [TODO — currently in development]
+Price:           [TODO]
+Languages:       English
+File size:       [TODO — check your build folder]
+Website:         [TODO — press page URL once hosted]
+Press contact:   ataseverefeyagiz@gmail.com
+Social:          [TODO: Twitter/X, Discord, itch, Steam page]
+
+ONE-LINE PITCH
+--------------
+An incremental hacking game played inside a living terminal: start with a
+blinking cursor and one command, end up running an entire operating system
+— then wipe it all for quantum power and do it again, stronger.
+
+ELEVATOR PITCH
+--------------
+TERMINIDLE starts you with nothing. Not "few resources" nothing — actual
+nothing: no mouse cursor (that's an upgrade), no sound (speakers are
+hardware you buy), no windows (comfort is earned). Type 'mine', watch one
+byte arrive, and build from there: botnets, a skill tree, typed hacking
+contracts, a crypto exchange, an overclockable rig that can literally burn
+out. Push far enough and the game outgrows the terminal itself — a full
+desktop OS boots around it, with arcade games that pay real data, a darknet
+chat full of suspiciously human bots, and a map of the internet to conquer.
+Ascend, lose everything but the quantum layer, and climb back faster.

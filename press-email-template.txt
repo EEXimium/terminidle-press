@@ -1,0 +1,44 @@
+SUBJECT OPTIONS (pick one, personalize it):
+  - TERMINIDLE — an idle game where you earn the mouse cursor
+  - The incremental game that boots its own operating system
+  - Press kit: TERMINIDLE (terminal hacking incremental)
+
+-----------------------------------------------------------------------
+
+Hi [NAME],
+
+I'm Yağız, a solo developer. I'm making TERMINIDLE — an incremental
+hacking game played entirely inside a living terminal, where you start
+with literally nothing: the mouse cursor is an upgrade, sound is hardware
+you buy, and every window is a comfort you earn.
+
+The hook that tends to land with people: if you play long enough, the
+game outgrows its own terminal — a full desktop OS boots around it, with
+arcade apps that pay real in-game data, a darknet chat full of
+suspiciously human bots, and a map of the internet to conquer. Prestige
+is a total system wipe: everything goes except the quantum layer, and
+you climb back faster by choice.
+
+Press kit (factsheet, screenshots, logo, key art):
+  [PRESS-PAGE-URL]
+
+Trailer:
+  [TRAILER-LINK]
+
+Build available on request — happy to send a key/zip the same day.
+[IF TRUE: A press build with a progressed save is ready, so you can see
+the OS/late-game in minutes instead of hours.]
+
+Thanks for your time — even a "not for us" reply is appreciated.
+
+Yağız Efe Atasever
+ataseverefeyagiz@gmail.com
+[SOCIAL LINKS]
+
+-----------------------------------------------------------------------
+NOTES TO SELF (delete before sending):
+- Personalize the first line per recipient (mention a game/genre they
+  covered). Bulk-identical emails get skipped.
+- Keep it under ~150 words when trimming; the press kit link does the work.
+- Curators/streamers care about the monetization permission — it's in the
+  press page, mention it if asked.
