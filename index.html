@@ -99,6 +99,20 @@
   .media-grid figcaption { color: var(--dim); font-size: 12px; padding-top: 6px; }
 
   .note { background: var(--panel); border-left: 3px solid var(--gold); padding: 12px 16px; color: var(--dim); font-size: 13px; }
+
+  .download-card {
+    background: var(--panel); border: 1px solid var(--border); padding: 20px;
+    display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;
+  }
+  .download-card .meta { font-size: 13px; color: var(--dim); line-height: 1.9; }
+  .download-card .meta strong { color: var(--green); }
+  .btn-download {
+    display: inline-block; text-decoration: none; white-space: nowrap;
+    color: var(--bg); background: var(--green); font-weight: 700; letter-spacing: 1px; font-size: 15px;
+    padding: 13px 26px; border: 1px solid var(--green); box-shadow: 0 0 18px rgba(51,255,153,.35);
+  }
+  .btn-download:hover { background: var(--gold); border-color: var(--gold); box-shadow: 0 0 18px rgba(255,217,64,.4); }
+
   footer { border-top: 1px solid var(--border); padding-top: 24px; color: var(--dim); font-size: 13px; text-align: center; }
 </style>
 </head>
@@ -114,6 +128,7 @@
 
 <nav>
   <a href="#factsheet">factsheet</a>
+  <a href="#download">download</a>
   <a href="#description">description</a>
   <a href="#features">features</a>
   <a href="#videos">videos</a>
@@ -143,6 +158,23 @@
         <a href="https://www.linkedin.com/company/zerotask" target="_blank">LinkedIn</a> |
         <a href="https://discord.gg/8EGuS374Cg" target="_blank">Discord</a></td></tr>
   </table>
+</section>
+
+<section id="download">
+  <h2>Demo Download</h2>
+  <div class="download-card">
+    <div class="meta">
+      <div><strong>TERMINIDLE — Press Demo</strong></div>
+      <div>Platform: Windows (64-bit)</div>
+      <div> This preview build has some features that will only be included in the full game. This build is a bit more than the Steam Demo that we will relase. &nbsp;·&nbsp; Size: 40 MB zip | 108 MB size on disk</span></div>
+    </div>
+    <!-- ▼ PASTE YOUR GOOGLE DRIVE LINK BELOW (share = "Anyone with the link", role = Viewer) -->
+    <a class="btn-download" href="https://drive.google.com/drive/folders/1w75FRRqyfxWBQvrafmAJKzTAobDhUBSO?usp=sharing" target="_blank" rel="noopener">▼ download demo (.zip)</a>
+  </div>
+  <p class="note" style="margin-top:14px;">
+    This is a preview build. Please don't reshare the link publicly. Having trouble downloading?
+    Email <a href="mailto:ataseverefeyagiz@gmail.com">ataseverefeyagiz@gmail.com</a> and I'll sort you out.
+  </p>
 </section>
 
 <section id="description">
